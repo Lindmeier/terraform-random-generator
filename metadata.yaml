@@ -1,0 +1,9 @@
+kind: Baustein
+id: d090490f-86d3-452f-9d5c-305f792d31b2
+name: terraform-random-generator
+category: tbd
+description: Baustein 1: Generator: generiert einen offiziellen Namen
+owner: xgadlnd
+capability: tbd
+state: planned
+type: Terraform
